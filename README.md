@@ -7,7 +7,7 @@
 
 ## About
 
-This repo documents my journey through *Black Hat Python* — each chapter gets its own folder with working implementations, personal notes, and any modifications or improvements I made along the way.
+This repo documents my journey through *Black Hat Python* - each chapter gets its own folder with working implementations, personal notes, and any modifications or improvements I made along the way.
 
 ---
 
