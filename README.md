@@ -1,7 +1,7 @@
 # bhp-labs
 
 > Security tool implementations from *Black Hat Python, 2nd Edition* by Justin Seitz & Tim Arnold.  
-> Built for learning purposes — all tools are for **authorized use only** in controlled/lab environments.
+> Built for learning purposes - all tools are for **authorized use only** in controlled/lab environments.
 
 ---
 
